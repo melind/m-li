@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-melimendy-dev-222202-authRole",
+            "UnauthRoleArn": "arn:aws:iam::269756700018:role/amplify-melimendy-dev-222202-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::269756700018:role/amplify-melimendy-dev-222202-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-melimendy-dev-222202-deployment",
+            "UnauthRoleName": "amplify-melimendy-dev-222202-unauthRole",
+            "StackName": "amplify-melimendy-dev-222202",
+            "StackId": "arn:aws:cloudformation:us-east-1:269756700018:stack/amplify-melimendy-dev-222202/90dd5c20-9f8e-11ea-b1a3-0a34514375d1",
+            "AmplifyAppId": "d3sq4i8rusa584"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3sq4i8rusa584",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
